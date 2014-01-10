@@ -45,7 +45,19 @@
     "cron": "~1.0.1",
     "semver": "~2.2.1",
     "string": "~1.7.0",
-    "xregexp": "~2.0.0"
+    "xregexp": "~2.0.0",
+    "nodebb-plugin-google-analytics": "0.1.1",
+    "nodebb-plugin-youtube": "0.0.4",
+    "nodebb-plugin-mailchimp": "0.1.0",
+    "nodebb-plugin-metro-tiles": "0.0.2",
+    "nodebb-plugin-adsense": "0.0.2",
+    "nodebb-plugin-vimeo": "0.0.3",
+    "nodebb-plugin-soundcloud": "0.0.4",
+    "nodebb-plugin-desktop-notifications": "0.0.6",
+    "nodebb-plugin-category-info": "0.0.1",
+    "nodebb-plugin-emoji": "0.1.1",
+    "nodebb-plugin-42": "0.0.1",
+    "nodebb-plugin-rss": "0.1.2"
   },
   "optionalDependencies": {
     "redis": "0.8.3",
